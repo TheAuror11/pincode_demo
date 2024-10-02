@@ -1,3 +1,7 @@
+before running this project, 
+run command: 
+npm install
+
 PINCODE MONGDB DATA: 
 
 [
