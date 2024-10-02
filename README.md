@@ -1,6 +1,7 @@
 before running this project, 
 run command: 
 npm install
+then for start: npm run
 
 PINCODE MONGDB DATA: 
 
